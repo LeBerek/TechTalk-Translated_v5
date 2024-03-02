@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MarkdownImport
+  ImportFolder=""
+  CreateNewStylesheet="false"
+  LastImport="2024-01-27T20:15:21.9031248+01:00">
+  <Files>
+    <Url
+      Source="../../../../IT-Tech-Talk-Translated/Bug.md"
+      AbsoluteSource="file:///C:/GIT/IT-Tech-Talk-Translated/Bug.md" />
+    <Url
+      Source="../../../../IT-Tech-Talk-Translated/Cloud.md"
+      AbsoluteSource="file:///C:/GIT/IT-Tech-Talk-Translated/Cloud.md" />
+    <Url
+      Source="../../../../IT-Tech-Talk-Translated/Container.md"
+      AbsoluteSource="file:///C:/GIT/IT-Tech-Talk-Translated/Container.md" />
+    <Url
+      Source="../../../../IT-Tech-Talk-Translated/Cookie.md"
+      AbsoluteSource="file:///C:/GIT/IT-Tech-Talk-Translated/Cookie.md" />
+    <Url
+      Source="../../../../IT-Tech-Talk-Translated/Firewall.md"
+      AbsoluteSource="file:///C:/GIT/IT-Tech-Talk-Translated/Firewall.md" />
+    <Url
+      Source="../../../../IT-Tech-Talk-Translated/Hardware and Devices.md"
+      AbsoluteSource="file:///C:/GIT/IT-Tech-Talk-Translated/Hardware and Devices.md" />
+    <Url
+      Source="../../../../IT-Tech-Talk-Translated/Mouse.md"
+      AbsoluteSource="file:///C:/GIT/IT-Tech-Talk-Translated/Mouse.md" />
+    <Url
+      Source="../../../../IT-Tech-Talk-Translated/Pipeline.md"
+      AbsoluteSource="file:///C:/GIT/IT-Tech-Talk-Translated/Pipeline.md" />
+    <Url
+      Source="../../../../IT-Tech-Talk-Translated/Sandbox.md"
+      AbsoluteSource="file:///C:/GIT/IT-Tech-Talk-Translated/Sandbox.md" />
+    <Url
+      Source="../../../../IT-Tech-Talk-Translated/Security Issues.md"
+      AbsoluteSource="file:///C:/GIT/IT-Tech-Talk-Translated/Security Issues.md" />
+    <Url
+      Source="../../../../IT-Tech-Talk-Translated/Server.md"
+      AbsoluteSource="file:///C:/GIT/IT-Tech-Talk-Translated/Server.md" />
+    <Url
+      Source="../../../../IT-Tech-Talk-Translated/Software Development and Testing.md"
+      AbsoluteSource="file:///C:/GIT/IT-Tech-Talk-Translated/Software Development and Testing.md" />
+    <Url
+      Source="../../../../IT-Tech-Talk-Translated/Spider.md"
+      AbsoluteSource="file:///C:/GIT/IT-Tech-Talk-Translated/Spider.md" />
+    <Url
+      Source="../../../../IT-Tech-Talk-Translated/Terminal.md"
+      AbsoluteSource="file:///C:/GIT/IT-Tech-Talk-Translated/Terminal.md" />
+    <Url
+      Source="../../../../IT-Tech-Talk-Translated/Virus.md"
+      AbsoluteSource="file:///C:/GIT/IT-Tech-Talk-Translated/Virus.md" />
+    <Url
+      Source="../../../../IT-Tech-Talk-Translated/Web Services.md"
+      AbsoluteSource="file:///C:/GIT/IT-Tech-Talk-Translated/Web Services.md" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Bug.htm"
+      TimeStamp="27.01.2024 20:15:02" />
+    <Url
+      Source="../../Content/Cloud.htm"
+      TimeStamp="27.01.2024 20:15:02" />
+    <Url
+      Source="../../Content/Container.htm"
+      TimeStamp="27.01.2024 20:15:02" />
+    <Url
+      Source="../../Content/Cookie.htm"
+      TimeStamp="27.01.2024 20:15:02" />
+    <Url
+      Source="../../Content/Firewall.htm"
+      TimeStamp="27.01.2024 20:15:02" />
+    <Url
+      Source="../../Content/Hardware and Devices.htm"
+      TimeStamp="27.01.2024 20:15:02" />
+    <Url
+      Source="../../Content/Mouse.htm"
+      TimeStamp="27.01.2024 20:15:02" />
+    <Url
+      Source="../../Content/Pipeline.htm"
+      TimeStamp="27.01.2024 20:15:02" />
+    <Url
+      Source="../../Content/Sandbox.htm"
+      TimeStamp="27.01.2024 20:15:02" />
+    <Url
+      Source="../../Content/Security Issues.htm"
+      TimeStamp="27.01.2024 20:15:02" />
+    <Url
+      Source="../../Content/Server.htm"
+      TimeStamp="27.01.2024 20:15:02" />
+    <Url
+      Source="../../Content/Software Development and Testing.htm"
+      TimeStamp="27.01.2024 20:15:02" />
+    <Url
+      Source="../../Content/Spider.htm"
+      TimeStamp="27.01.2024 20:15:02" />
+    <Url
+      Source="../../Content/Terminal.htm"
+      TimeStamp="27.01.2024 20:15:02" />
+    <Url
+      Source="../../Content/Virus.htm"
+      TimeStamp="27.01.2024 20:15:02" />
+    <Url
+      Source="../../Content/Web Services.htm"
+      TimeStamp="27.01.2024 20:15:02" />
+    <Url
+      Source="../TOCs/Bug.fltoc"
+      TimeStamp="27.01.2024 20:15:02" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Styles.css"
+      TimeStamp="27.01.2024 20:15:02" />
+  </GeneratedFiles>
+  <Styles>
+    <Map
+      From="blockquote"
+      To="blockquote"
+      Style="Block" />
+    <Map
+      From="h1"
+      To="h1"
+      Style="Block" />
+    <Map
+      From="h2"
+      To="h2"
+      Style="Block" />
+    <Map
+      From="h3"
+      To="h3"
+      Style="Block" />
+    <Map
+      From="h4"
+      To="h4"
+      Style="Block" />
+    <Map
+      From="h5"
+      To="h5"
+      Style="Block" />
+    <Map
+      From="h6"
+      To="h6"
+      Style="Block" />
+    <Map
+      From="MadCap:equation"
+      To="MadCap:equation"
+      Style="Block" />
+    <Map
+      From="p"
+      To="p"
+      Style="Block" />
+    <Map
+      From="pre"
+      To="MadCap:codeSnippet"
+      Style="Block" />
+    <Map
+      From="a"
+      To="a"
+      Style="Inline" />
+    <Map
+      From="code"
+      To="code"
+      Style="Inline" />
+    <Map
+      From="em"
+      To="em"
+      Style="Inline" />
+    <Map
+      From="MadCap:equation"
+      To="MadCap:equation"
+      Style="Inline" />
+    <Map
+      From="strong"
+      To="strong"
+      Style="Inline" />
+    <Map
+      From="li"
+      To="li"
+      Style="List" />
+    <Map
+      From="ol"
+      To="ol"
+      Style="List" />
+    <Map
+      From="ul"
+      To="ul"
+      Style="List" />
+    <Map
+      From="dd"
+      To="dd"
+      Style="Definition List" />
+    <Map
+      From="dl"
+      To="dl"
+      Style="Definition List" />
+    <Map
+      From="dt"
+      To="dt"
+      Style="Definition List" />
+  </Styles>
+  <NewTopicStyles>
+    <Style
+      Tag="h1" />
+  </NewTopicStyles>
+</MarkdownImport>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="PDF-Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="include[Default.PrintOnly or &quot;Language version.Russian-include&quot;], exclude[Default.Mobile or Default.ScreenOnly or Default.Tablet or Default.Web or &quot;Language version.Deutsch-include&quot;]"
+  PatchHeadingLevels="true"
+  InjectEmptyPages="false"
+  GetLatestBeforeCompile="true"
+  MasterToc="/Project/TOCs/PDF.fltoc"
+  OutputFolder="C:\GIT\MC4_step\Output"
+  MasterStylesheetOverride="true"
+  MasterPageLayout="/Content/Resources/PageLayouts/Front-page.flpgl"
+  conditions="Language version.Russian-include">
+  <PrintedOutput
+    CollapseMargins="false"
+    ExpandingTextConversion="expand"
+    PopupConversion="remove-body"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    OutputFormat="doc" />
+  <DocumentProperties
+    Title="User Guide"
+    Author="My Name" />
+  <PDF
+    ShowUsedBookmarks="false"
+    InitialMagnification="FitBH"
+    PageLayout="TwoColumnRight"
+    TitleBar="DocumentTitle"
+    CollapsedBookmarks="true"
+    CropAndRegistrationMarks="false"
+    ConvertToCMYK="true"
+    Tagged="true" />
+  <Glossaries />
+</CatapultTarget>
