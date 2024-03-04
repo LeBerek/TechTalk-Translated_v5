@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A-Hardware-and-Devices/Hardware and Devices.htm'],s:['+48','tip'],p:[['+48',19],['from',19],['s',10]]});
